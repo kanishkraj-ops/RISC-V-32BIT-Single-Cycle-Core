@@ -1,0 +1,11 @@
+# Vivado auto-generated folders
+RISC_V_CORE.cache/
+RISC_V_CORE.hw/
+RISC_V_CORE.ip_user_files/
+RISC_V_CORE.sim/
+
+# Waveform configurations and temp logs
+*.wcfg
+*.log
+*.jou
+.Xil/

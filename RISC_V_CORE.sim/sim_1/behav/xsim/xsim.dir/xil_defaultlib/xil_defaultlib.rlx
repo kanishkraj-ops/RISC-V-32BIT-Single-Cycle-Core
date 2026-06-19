@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sim_1/new/testbench.v,1781867444,verilog,,,,riscv_tb_large,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/imports/Vivado/ALU/ALU.srcs/sources_1/new/alu.v,1781793866,verilog,,K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/alu_control.v,,alu,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/imports/Vivado/Register_bank/Register_bank.srcs/sources_1/new/reg_bank.v,1781866079,verilog,,K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/riscv_top.v,,reg_bank,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/alu_control.v,1781865884,verilog,,K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/control_unit.v,,alu_control,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/control_unit.v,1781864015,verilog,,K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/data_mem.v,,control_unit,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/data_mem.v,1781866512,verilog,,K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/imm_gen.v,,data_mem,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/imm_gen.v,1781863294,verilog,,K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/instruction_mem.v,,imm_gen,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/instruction_mem.v,1781863299,verilog,,K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/prog_counter.v,,instruction_mem,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/prog_counter.v,1781863298,verilog,,K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/imports/Vivado/Register_bank/Register_bank.srcs/sources_1/new/reg_bank.v,,prog_counter,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sources_1/new/riscv_top.v,1781866792,verilog,,K:/Vivado/RISC_V_CORE/RISC_V_CORE.srcs/sim_1/new/testbench.v,,riscv_top,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
